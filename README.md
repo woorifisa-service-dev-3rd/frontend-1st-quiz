@@ -9,7 +9,7 @@
     <td height="140px" align="center"> <a href="https://github.com/HoChoRoo"> <img src="https://avatars.githubusercontent.com/u/108720714?v=4" width="140px" />
       <br /> 김호철</a></td>
   </tr>
-  </table>
+</table>
 
 ## 팀 규칙
 
