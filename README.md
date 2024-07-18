@@ -16,6 +16,7 @@
 - 원하는 추가 기능이 있다면 즉시 공유하기
 - 서로의 영역을 구분짓지 않고 목표 달성을 위해 협업 지향하기
 
+<br/>
 
 ## 프로젝트 개요
 정보처리기사 준비하는 학생들의 실력을 향상시키기 위해 개발하였습니다.
@@ -28,3 +29,5 @@
 <img src="https://github.com/user-attachments/assets/db5e029c-8ae9-46cb-937c-adbd4e4e99bc" alt="2" width="400">
 <img src="https://github.com/user-attachments/assets/443775e9-1ed4-4c26-8037-b692ee9994b2" alt="3" width="400">
 <img src="https://github.com/user-attachments/assets/0a8112ff-2e28-4de4-ae60-468e17e457b6" alt="4" width="400">
+
+<br/>
