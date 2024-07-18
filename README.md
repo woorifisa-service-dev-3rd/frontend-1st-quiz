@@ -4,5 +4,11 @@
 <br/>
 <br/>
 
-기술 스택 
-| **Frontend** |<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/jsp-004088?style=for-the-badge&logo=jsp&logoColor=white"> |
+
+## 프로젝트 개요
+정보처리기사 준비하는 학생들의 실력을 향상시키기 위해 개발하였습니다.
+
+<br/>
+
+## UI
+![main](https://github.com/user-attachments/assets/d90ada49-8283-43f8-afc7-03a7cd318f3f)
