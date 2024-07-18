@@ -1,7 +1,7 @@
 # HoQuiz 
 정보처리기사 퀴즈 푸는 웹 서비스
 
-#### 팀원
+## 팀원
 <table>
   <tr>
     <td height="140px" align="center"> <a href="https://github.com/AnChanUng"> <img src="https://avatars.githubusercontent.com/u/104750924?v=4" width="140px" />
