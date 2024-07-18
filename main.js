@@ -17,15 +17,27 @@ const quizData = [
     }
 ];
 
-// DOM 로딩 후 실행
 document.addEventListener('DOMContentLoaded', function() {
     const quizButton = document.querySelector('.quiz-button');
 
-    // 퀴즈 페이지로 이동 시
     quizButton.addEventListener('click', function(event) {
-        event.preventDefault(); // 기본 동작 방지
+        event.preventDefault(); 
 
-        // 퀴즈 페이지로 이동
         window.location.href = 'quiz.html';
     });
+});
+
+document.addEventListener('DOMContentLoaded', () => {
+    const rainContainer = document.createElement('div');
+    rainContainer.classList.add('rain');
+    document.body.appendChild(rainContainer);
+
+    for (let i = 0; i < 100; i++) {
+        const drop = document.createElement('div');
+        drop.classList.add('drop');
+        drop.style.left = `${Math.random() * 100}%`;
+        drop.style.animationDuration = `${Math.random() * 1 + 0.5}s`;
+        drop.style.animationDelay = `${Math.random() * 2}s`;
+        rainContainer.appendChild(drop);
+    }
 });
