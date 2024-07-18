@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Always Visible Banner Ad</title>
+<style>
+/* 스타일링 */
+.banner {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #f0f0f0;
+  padding: 10px 0;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  text-align: center;
+  z-index: 1000; /* 다른 요소들보다 위에 위치 */
+}
+
+/* 버튼 스타일 */
+.banner button {
+  padding: 8px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.banner button:hover {
+  background-color: #0056b3;
+}
+
+</style>
+</head>
+<body>
+<!-- 배너 -->
+<div class="banner">
+  <p>여기에 광고 내용을 입력하세요.</p>
+  <button onclick="closeBanner()" id="closeButton">닫기</button>
+</div>
+
+<!-- 본문 -->
+<div style="height: 2000px; background-color: #f9f9f9; padding: 20px;">
+  <p>여기는 웹사이트 본문입니다. 스크롤을 내리면 배너가 항상 보이는지 확인해 보세요.</p>
+</div>
+
+<!-- 자바스크립트로 배너 닫기 기능 추가 -->
+<script>
+function closeBanner() {
+  document.querySelector('.banner').style.display = 'none';
+  document.getElementById('closeButton').style.backgroundColor = '#28a745'; // 버튼 색상 변경
+}
+</script>
+
+</body>
+</html>
