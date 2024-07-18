@@ -1,6 +1,15 @@
 # HoQuiz 
 정보처리기사 퀴즈 푸는 웹 서비스
 
+#### 팀원
+<table>
+  <tr>
+    <td height="140px" align="center"> <a href="https://github.com/AnChanUng"> <img src="https://avatars.githubusercontent.com/u/104750924?v=4" width="140px" />
+      <br /> 안찬웅</a></td>
+    <td height="140px" align="center"> <a href="https://github.com/HoChoRoo"> <img src="https://avatars.githubusercontent.com/u/108720714?v=4" width="140px" />
+      <br /> 김호철</a></td>
+  </tr>
+  </table>
 <br/>
 <br/>
 
