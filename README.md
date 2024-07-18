@@ -28,3 +28,7 @@
 
 ## UI
 ![main](https://github.com/user-attachments/assets/d90ada49-8283-43f8-afc7-03a7cd318f3f)
+![1](https://github.com/user-attachments/assets/9845deac-ae8f-491f-9079-98af46f1b531)
+![2](https://github.com/user-attachments/assets/db5e029c-8ae9-46cb-937c-adbd4e4e99bc)
+![3](https://github.com/user-attachments/assets/443775e9-1ed4-4c26-8037-b692ee9994b2)
+![4](https://github.com/user-attachments/assets/0a8112ff-2e28-4de4-ae60-468e17e457b6)
